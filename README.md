@@ -1,4 +1,4 @@
-# phaser_pong
+# Demo de Phaser, juego Ping Pong
 
 # Ejecutar
 
